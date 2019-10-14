@@ -26,8 +26,8 @@ cliquemos nos redirige a INDEX.PHP con un video u otro dentro del iframe.
 
 * He tenido que copiar el JSON que devolvía el ejercicio y modificarlo, por eso
 dentro de FUNCTIONS.PHP cuando diferencio si es un XML o un JSON, cargo un JSON
-que tengo en local, Porque con el dado por la API me da error de sintaxis.
+que tengo en local, Porque el que me ofrece la API me da error de sintaxis.
 
-* He tirade de Jquery para hacer efectos de ocultar y mostrar elementos,
+* He tirado de Jquery para hacer efectos de ocultar y mostrar elementos,
 redireccionar a index.php y llamar a las funciones cuando clicamos
 en los botones.
