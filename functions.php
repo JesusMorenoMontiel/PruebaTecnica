@@ -31,13 +31,13 @@
 
     //Div con el video.
     function video() {
-      echo json_encode(array('element' => '<video controls autoplay> <source src="vendor/skysignagelight.1564484463.mp4" type="video/mp4"></video>'));
+      echo json_encode(array('element' => '<video controls autoplay> <source src="skysignagelight.1564484463.mp4" type="video/mp4"></video>'));
       exit;
     }
 
     //Div con la imagen.
     function image() {
-      echo json_encode(array('element' => '<img src="vendor/msbienvenuebackground.png" alt="Welcome">'));
+      echo json_encode(array('element' => '<img src="msbienvenuebackground.png" alt="Welcome">'));
       exit;
     }
 
