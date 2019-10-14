@@ -1,0 +1,88 @@
+{
+    "ad": {
+        "id": "119",
+        "reference_client": "41115",
+        "titre": "Maison de ville avec petite terrasse",
+        "reference": "46029",
+        "agence": "AUDE IMMOBILIER.COM",
+        "type_offre": "Vente",
+        "type_offre_code": "0",
+        "agenceLogo": "http://audeimmobilier.staticlbi.com/original/images/logoprint.jpg",
+        "agenceLocation": "41 RUE DE LA MAIRIE limoux",
+        "agenceVille": "limoux",
+        "cle_agence": "audeimmobilier_1",
+        "telephone": "+33 (0)4 68 31 10 81",
+        "email": "aude.immobilier@wanadoo.fr",
+        "cuisine": "",
+        "corps": "Située au coeur du quartier de la petite-ville à Limoux, à deux pas des commerces, maison de ville avec terrasse.<br>  <br> D'une surface habitable d'environ 72 m2, cette maison se compose de :<br>  <br> Au rez-de-chaussée :<br> - Entrée dans une cuisine aménagée et équipée d'environ 13,9 m2<br> - Un couloir<br> - Arrière-cuisine aménageable avec placards<br> - porte ouvrant sur petite cour semi-couverte<br>  <br> Au 1er étage :<br> - une cage d'escalier et un palier<br> - un salon d'environ 13,7 m2<br> - une chambre d'environ 12,6 m2 donnant sur une terrasse d'environ 7 m2<br>  <br> Au 2ème étage :<br> - une salle de bains avec WC<br> - une chambre d'environ 13,7 m2<br> - un grenier non aménageable d'environ 18 m2<br>  <br> Mode de chauffage : radiateurs électriques plus climatisation réversible au 2ème étage<br> Production d'eau chaude : cumulus électrique<br>  Maison connectée au tout à l'égout",
+        "corps_impression": "Située au coeur du quartier de la petite-ville à Limoux, à deux pas des commerces, maison de ville avec terrasse.<br>  <br> D'une surface habitable d'environ 72 m2, cette maison se compose de :<br>  <br> Au rez-de-chaussée :<br> - Entrée dans une cuisine aménagée et équipée d'environ 13,9 m2<br> - Un couloir<br> - Arrière-cuisine aménageable avec placards<br> - porte ouvrant sur petite cour semi-couverte<br>  <br> Au 1er étage :<br> - une cage d'escalier et un palier<br> - un salon d'environ 13,7 m2<br> - une chambre d'environ 12,6 m2 donnant sur une terrasse d'environ 7 m2<br>  <br> Au 2ème étage :<br> - une salle de bains avec WC<br> - une chambre d'environ 13,7 m2<br> - un grenier non aménageable d'environ 18 m2<br>  <br> Mode de chauffage : radiateurs électriques plus climatisation réversible au 2ème étage<br> Production d'eau chaude : cumulus électrique<br>  Maison connectée au tout à l'égout",
+        "prix": "54000",
+        "honoraires": "4000",
+        "honorairesAChargeDe": "2",
+        "honorairesMandant": "4000",
+        "urlBaremeHono": "http://www.audeimmobilier.com/votre-agence-aude-immobilier-limoux-6-0-0-0-0-0-0",
+        "honorairesPourcentageAcquereur": "0.00",
+        "prixnetvendeur": "50000",
+        "url": "https://www.audeimmobilier.com/votre-agence-aude-immobilier-limoux-8-0-0-0-0-46029-0",
+        "numero_mandat": "46029",
+        "type_mandat": "SIMPLE",
+        "datedebut_mandat": "2019-04-02",
+        "datefin_mandat": "2021-04-02",
+        "type_bien": "Maison",
+        "type_bien_code": "1",
+        "surface_habitable": "72",
+        "nb_pieces": "4",
+        "chambres": "2",
+        "sdb": "1",
+        "chauffage": "RADIATEUR",
+        "energie_chauffage": "ELECTRIQUE",
+        "format_chauffage": "INDIVIDUEL",
+        "chauffages": {
+            "chauffage": {
+                "type_chauffage": "TYPE_CHAUFF_RADIATEUR",
+                "energie_chauffage": "ENERGIE_CHAUFF_ELECTRIQUE",
+                "format_chauffage": "FORMAT_CHAUFF_INDIVIDUEL"
+            }
+        },
+        "parking": "0",
+        "piscine": "0",
+        "prestige": "0",
+        "cons_energie": "223",
+        "class_energie": "D",
+        "emission_gaz": "7",
+        "class_emission_gaz": "B",
+        "dpe_non_concerne": "0",
+        "dpe_vierge": "0",
+        "pays": "France",
+        "ville": "limoux",
+        "cp": "11300",
+        "departement": "11",
+        "coup_de_coeur": "0",
+        "images": {
+            "image": [
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/ccfe089de0c9e7831c874e2e0e3838de.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/102556b88a902d2d34fe414669b15396.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/32668d0773a8ede46ad8bb9fc3a002fe.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/7b268c017767dba28307a8d6c6f8a6bb.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/7f31d0ca2441021724f16f8e5c78be80.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/6c75ca8b9effbeaa22c3be3090e75bfa.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/fe5b01d9e71aec1b16280c85425e05b9.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/468ad58444a07928791c040fbad11be9.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/4fef0836a6d4ccf2449d03e9f61a0872.jpg",
+                "http://audeimmobilier.staticlbi.com/original/images/biens/1/a0a080f42e6f13b3a2df133f073095dd/7d1888a5381e7111e0edb41b06b26955.jpg"
+            ]
+        },
+        "status": "2",
+        "traductions": {
+            "langue": {
+                "@attributes": {
+                    "code": "en"
+                },
+                "titre": "Town house with small terrace",
+                "corps": "Located in the heart of the old town of Limoux, 2 steps from amenities, town house with terrace.   With a habitable surface area of around 72m2, this house comprises :         On the ground floor : - Entrance in a fully fitted kitchen of around 13.9m2 - A corridor - A back kitchen that can be converted with closets - Door leading to a small semi covered terrace   On the first floor : - A staircase and landing - A living room of around 13.7m2 - A bedroom of around 12.6m2 leading on a terrace of around 7m2   On the second floor : - A bathroom with toilets - A bedroom of around 13.7m2 - An attic of around 18m2 that can not be converted   Heating : Electrical heaters and reversible air conditioning on the second floor Hot water : electrical storage tank House connected to the mains sewer",
+                "corps_impression": "Located in the heart of the old town of Limoux, 2 steps from amenities, town house with terrace.   With a habitable surface area of around 72m2, this house comprises :         On the ground floor : - Entrance in a fully fitted kitchen of around 13.9m2 - A corridor - A back kitchen that can be converted with closets - Door leading to a small semi covered terrace   On the first floor : - A staircase and landing - A living room of around 13.7m2 - A bedroom of around 12.6m2 leading on a terrace of around 7m2   On the second floor : - A bathroom with toilets - A bedroom of around 13.7m2 - An attic of around 18m2 that can not be converted   Heating : Electrical heaters and reversible air conditioning on the second floor Hot water : electrical storage tank House connected to the mains sewer"
+            }
+        },
+        "meuble": "0"
+    }
+}
